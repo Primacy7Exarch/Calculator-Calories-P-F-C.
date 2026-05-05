@@ -3,13 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-
-
 # Folder's
-/База данных в тхт с выбором, делать или нет
-
-
-
+База данных в тхт с выбором, делать или нет/
 
 # User-specific files
 *.rsuser
