@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Google II.cpp" />
+    <ClCompile Include="Void%27s.cpp" />
+    <ClCompile Include="Старьё.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Void%27s.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
