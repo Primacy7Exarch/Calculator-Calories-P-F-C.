@@ -16,4 +16,4 @@ void Сбросс_Ошибки(double& значение)
 		std::cout << "\033[A\033[K";
 	}
 	while (std::cin.get() != '\n');
-}
+} 
