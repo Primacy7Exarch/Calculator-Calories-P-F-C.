@@ -1,10 +1,4 @@
-﻿#include <iostream>
-#include <string>
-#include <Windows.h>
-#include <cstdlib>
-#include <conio.h>
-#include <vector>
-#include <fstream>
+﻿#include "All In.h"
 
 // Войды.
 void Пациент(std::string& Назвищо);

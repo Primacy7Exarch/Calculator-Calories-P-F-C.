@@ -128,10 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Google II.cpp" />
+    <ClCompile Include="Script.cpp" />
     <ClCompile Include="Void%27s.cpp" />
     <ClCompile Include="Старьё.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="All In.h" />
+    <ClInclude Include="Date.h" />
+    <ClInclude Include="Script.h" />
     <ClInclude Include="Void%27s.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
