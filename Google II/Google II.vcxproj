@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cycle.cpp" />
     <ClCompile Include="Google II.cpp" />
     <ClCompile Include="Script.cpp" />
     <ClCompile Include="Void%27s.cpp" />
@@ -134,6 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="All In.h" />
+    <ClInclude Include="Cycle.h" />
     <ClInclude Include="Date.h" />
     <ClInclude Include="Script.h" />
     <ClInclude Include="Void%27s.h" />
