@@ -2,14 +2,12 @@
 
 int main()
 {
-
-	SetConsoleCP(1251);
-	SetConsoleOutputCP(1251);
-
-	Цикл();
+	Вызов_Функций();
 
 	_getch();
 	system("cls");
+
+	ПодсчётPFCУПациента();
 
 	std::cout << "Пока!" << std::endl << "Спасибо за Использования Нашего ПО!!" << std::endl;
 

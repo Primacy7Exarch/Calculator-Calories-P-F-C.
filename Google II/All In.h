@@ -10,3 +10,6 @@
 #include "Date.h"
 #include "Script.h"
 #include "Cycle.h"
+#include "Add Language.h"
+#include "Function.h"
+#include "P.F.C.h"
