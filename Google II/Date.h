@@ -8,6 +8,9 @@ struct Patient
 	std::string Назвищо;
 	double Возраст;
 	double Результат;
+	//05.06.2026
+	double Рост;
+	double Вес;
 };
 
 //Конец Базам.
